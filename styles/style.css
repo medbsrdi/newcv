@@ -1,0 +1,11 @@
+/* .info-head{
+  padding: 100px;
+} */
+
+body{
+  background-color:#bdf708;
+}
+
+textarea{
+  resize:vertical;
+}
